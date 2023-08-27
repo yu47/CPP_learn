@@ -9,6 +9,15 @@
         "memory": "cpp",
         "type_traits": "cpp",
         "xutility": "cpp",
-        "list": "cpp"
-    }
+        "list": "cpp",
+        "filesystem": "cpp",
+        "string": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "iosfwd": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }

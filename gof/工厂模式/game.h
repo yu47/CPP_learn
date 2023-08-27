@@ -1,7 +1,6 @@
 
 #ifndef __GAME__
 #define __GAME__
-
 #include <iostream>
 
 class Game {
@@ -12,6 +11,7 @@ class Game {
     virtual void Play() {
       std::cout << "play game" << std::endl;
     }
+
 };
 
 #endif
